@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi!
+
+My name is Lander Wells and I am currently a senior computer science student at Northern Michigan University.
+
+I have a special interest in mathematics and electronics along with computer science!
+
+Here are the languages I use
+- Rust
+- Haskell
+- Python
+- C++
+- Bash
 
 <!--
 **landerwells/landerwells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
