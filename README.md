@@ -1,8 +1,8 @@
 ### Hi!
 
-My name is Lander Wells and I am currently a senior computer science student at Northern Michigan University.
+My name is Lander Wells and I am a Software Developer for Leidos!
 
-I have a special interest in mathematics and electronics along with computer science!
+I have a BS in Computer Science from Northern Michigan University, with minors in Mathematics and Electronics.
 
 Here are the languages I use
 - Rust
