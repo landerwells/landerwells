@@ -9,4 +9,5 @@ In my spare time I love learning more about Rust and C++!
 And I use these tools for work:
 - C++
 - Java
+- Python
 - PostgreSQL
