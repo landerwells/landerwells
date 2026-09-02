@@ -1,13 +1,5 @@
-### Hi!
+### Hello!
 
-My name is Lander Wells and I am a Software Developer for Leidos.
+I'm Lander Wells, a Lead Software Developer at Leidos working on Air Traffic Control systems.
 
-I have a BS in Computer Science from Northern Michigan University, with minors in Mathematics and Electronics.
-
-In my spare time I love learning more about Rust and C++! I am currently working on shire_blocker, check it out below!
-
-And I use these tools for work:
-- C++
-- Java
-- Python
-- PostgreSQL
+I am in the process of migrating all my repos to a home server running OpenBSD. At some point I will have a section up on [my website](https://www.landerwells.com/) with statically generated repos to view the projects I have been working on.
